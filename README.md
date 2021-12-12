@@ -1,10 +1,10 @@
 # test_api_cordova
 
-// BACK-END
+BACK-END
 Création d'une api test en ligne.
 Adresse de l'api : https://laurap.alwaysdata.net/test_api/api/messages
 
-// FRONT-END
+FRONT-END
 Création d'une interface afin d'afficher les messages via l'API.
 Adresse de l'interface : https://laurap.alwaysdata.net/test_api/
 

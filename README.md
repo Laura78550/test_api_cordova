@@ -11,3 +11,5 @@ Adresse de l'interface : https://laurap.alwaysdata.net/test_api/
 Il m'est impossible à l'heure actuelle d'installer tous les packages et IDE afin de faire fonctionner mon application sur mobile.
 
 C'est pourquoi, je vais réaliser l'intégralité de mon application en WebApp et non fournir un lien d'installation sur mobile.
+
+LAURA PINEAU
